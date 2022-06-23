@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Sistema Seguradora\Seguradora_Pim.exe
+C:\Users\Rafael\Desktop\Sistema Seguradora\Seguradora_Pim.dll
+C:\Users\Rafael\Desktop\Sistema Seguradora\Seguradora_Pim.deps.json
+C:\Users\Rafael\Desktop\Sistema Seguradora\Seguradora_Pim.runtimeconfig.json
+C:\Users\Rafael\Desktop\Sistema Seguradora\Seguradora_Pim.pdb
+C:\Users\Rafael\Desktop\Sistema Seguradora\Npgsql.dll

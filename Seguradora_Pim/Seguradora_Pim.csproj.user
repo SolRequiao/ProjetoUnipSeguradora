@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Telas_Apolice\Tela_Cadastrar_Apolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Apolice\Tela_Deletar_Apolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Apolice\Tela_Modificar_Apolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Apolice\Tela_Principal_Apolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Apolice\Tela_Ver_Informacao_Apolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Aprovar_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Cadastrar_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Deletar_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Modificar_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Negar_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Principal_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Cotacao\Tela_Ver_Informacao_Cotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tela_Cadastrar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tela_Modificar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tela_Pesquisar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tela_Principal_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tela_Ver_Informacao_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Funcionario\Tele_Cadastrar_Funcionario_Parte_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Inicial\Tela_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Inicial\Tela_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Segurado\Tela_Cadastrar_Segurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Segurado\Tela_Modificar_Segurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Segurado\Tela_Principal_Segurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Segurado\Tela_Ver_Informacao_Segurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Segurado\Tele_Cadastrar_Segurado_Parte_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Veiculo\Tela_Cadastrar_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Veiculo\Tela_Deletar_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Veiculo\Tela_Modificar_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Veiculo\Tela_Principal_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas_Veiculo\Tela_Ver_Informacao_Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tela_Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

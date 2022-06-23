@@ -1,0 +1,405 @@
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Perfil.Tela_Principal_Perfil.resources
+C:\Users\solre\source\repos\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Perfil.Tela_Ver_Informacao_Perfil.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Perfil.Tela_Principal_Perfil.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Perfil.Tela_Ver_Informacao_Perfil.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\thaia\Downloads\Seguradora_Pim\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\solre\source\repos\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Seguradora_Pim_Sem_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Properties.Resources.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Properties.Resources.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\isabe\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Properties.Resources.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Deletar_Funcionario.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\solre\Downloads\Seguradora_Pim_Com_Layout\Seguradora_Pim_Sem_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Properties.Resources.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Pesquisar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Deletar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Pesquisar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Pesquisar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Com_Layout\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Pesquisar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.exe
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.deps.json
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.runtimeconfig.json
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Properties.Resources.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Cadastrar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Deletar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Modificar_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Principal_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Apolice.Tela_Ver_Informacao_Apolice.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Aprovar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Cadastrar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Deletar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Modificar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Negar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Pesquisar_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Principal_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Cotacao.Tela_Ver_Informacao_Cotacao.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Cadastrar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Deletar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Modificar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Pesquisar_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Principal_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tela_Ver_Informacao_Funcionario.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Funcionario.Tele_Cadastrar_Funcionario_Parte_2.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Login.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Inicial.Tela_Principal.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Cadastrar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Deletar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Modificar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Pesquisar_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Principal_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tela_Ver_Informacao_Segurado.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Segurado.Tele_Cadastrar_Segurado_Parte_2.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Cadastrar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Deletar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Modificar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Pesquisar_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Principal_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Telas_Veiculo.Tela_Ver_Informacao_Veiculo.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.Tela_Inicial.resources
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.GenerateResource.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.AssemblyInfo.cs
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.csproj.CopyComplete
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\refint\Seguradora_Pim.dll
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.pdb
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\Seguradora_Pim.genruntimeconfig.cache
+C:\Users\Rafael\Desenvolvimento\PIM\Seguradora_Pim_Finalizado\Seguradora_Pim\obj\Debug\net6.0-windows\ref\Seguradora_Pim.dll

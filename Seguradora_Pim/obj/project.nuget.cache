@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIzBSRXHBo33D5nZrw6tpxGEkd/yPkzsTidK2s+X0DeAsMBW0icrj84GKuJjcWYyp2GUw3H401KS8R1y7RTZEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Desenvolvimento\\PIM\\Seguradora_Pim_Finalizado\\Seguradora_Pim\\Seguradora_Pim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

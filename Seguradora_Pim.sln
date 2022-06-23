@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seguradora_Pim", "Seguradora_Pim\Seguradora_Pim.csproj", "{78CF6146-BE11-4086-B889-8BC636612ECE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{7DC68D08-EA04-43F2-B65C-E320C28A4228}"
+	ProjectSection(SolutionItems) = preProject
+		Seguradora_Pim\Telas_Funcionario\Tela_Modificar_Funcionario.cs = Seguradora_Pim\Telas_Funcionario\Tela_Modificar_Funcionario.cs
+		Seguradora_Pim\Telas_Funcionario\Tela_Pesquisar_Funcionario.cs = Seguradora_Pim\Telas_Funcionario\Tela_Pesquisar_Funcionario.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78CF6146-BE11-4086-B889-8BC636612ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CF6146-BE11-4086-B889-8BC636612ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CF6146-BE11-4086-B889-8BC636612ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CF6146-BE11-4086-B889-8BC636612ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8226CA-B882-46B7-9C19-C95B9C6E0F2B}
+	EndGlobalSection
+EndGlobal
